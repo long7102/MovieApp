@@ -1,0 +1,17 @@
+C:\Users\Long Provip\Desktop\MovieApp\bin\Debug\MovieApp.exe.config
+C:\Users\Long Provip\Desktop\MovieApp\bin\Debug\MovieApp.exe
+C:\Users\Long Provip\Desktop\MovieApp\bin\Debug\MovieApp.pdb
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.LoginForm.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.Properties.Resources.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.csproj.GenerateResource.cache
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.exe
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.pdb
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.MainForm.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.MovieForm.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.TicketForm.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.SuggestForm.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.ImageForm.resources
+C:\Users\Long Provip\Desktop\MovieApp\obj\Debug\MovieApp.EquipmentForm.resources
